@@ -1,0 +1,7 @@
+__pycache__/
+tmp/
+zhihutg/
+config.py
+*.json
+*.js
+*.jpg
